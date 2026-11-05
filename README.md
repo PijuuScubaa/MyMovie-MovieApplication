@@ -1,1 +1,0 @@
-﻿# MyMovie-Movie-Plan-Application
